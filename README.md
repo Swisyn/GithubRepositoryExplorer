@@ -1,5 +1,5 @@
 # GithubRepositoryExplorer
-An example MVVM Architecture based Android app using Retrofit, Room, Dagger2, LiveData with infinite scrolling experience.
+MVVM Architecture based Android app using Retrofit, Room, Dagger2, LiveData with infinite scrolling experience.
 
 ![Gif](https://media.giphy.com/media/Zvx7P7h1WI0umth8uS/giphy.gif)
 
